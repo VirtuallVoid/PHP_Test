@@ -1,0 +1,11 @@
+.btn-default {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+hr{
+    border-top: 2px solid black;
+}
+.row{
+    margin-top: 10px;
+    margin-bottom: 10px
+}
